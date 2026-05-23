@@ -90,14 +90,15 @@ To reproduce the OpenImages V7 experiments:
 
   ---
 
-
 ## Citation
 
+```bibtex
 @inproceedings{post_hoc_logit_refinement_ctg_2026,
   title={Post-hoc Logit Refinement via Contrastive Top-K Guidance for Zero-shot Open Vocabulary Segmentation},
   author={Jeong, Ayoung and Seo, Jaeseok and Jang, Keunhyeock and Jung, Wonsik},
   year={2026}
 }
+```
 
 ## Acknowledgement
 
