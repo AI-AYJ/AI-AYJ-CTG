@@ -1,4 +1,4 @@
-# CTG 후처리 모듈을 활용한 <br>Zero-Shot Open-Vocabulary Segmentation 개선 연구
+# CTG 후처리 모듈을 활용한 <br>Zero-Shot Open-Vocabulary Segmentation 개선 연구.
 
 
 <img width="7912" height="1799" alt="image" src="https://github.com/user-attachments/assets/39e5cae7-cfe6-4a1c-aafb-72e5367adfb4" />
