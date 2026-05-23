@@ -89,4 +89,27 @@ To reproduce the OpenImages V7 experiments:
   Run: [`openimagesv7+CTG_코드.ipynb`](./openimagesv7%2BCTG_%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B3.ipynb)
 
 
+---
+
+## Citation
+@inproceedings{post_hoc_logit_refinement_ctg_2026,
+  title={Post-hoc Logit Refinement via Contrastive Top-K Guidance for Zero-shot Open Vocabulary Segmentation},
+  author={Jeong, Ayoung and Seo, Jaeseok and Jang, Keunhyeock and Jung, Wonsik},
+  year={2026}
+}
+
+## Related Paper
+This repository contains the official implementation of our KCC 2026 paper:
+
+**Post-hoc Logit Refinement via Contrastive Top-K Guidance for Zero-shot Open Vocabulary Segmentation**
+
+Ayoung Jeong†, Jaeseok Seo†, Keunhyeock Jang, Wonsik Jung*  
+Department of Artificial Intelligence, Konyang University
+
+† Equal Contribution  
+* Corresponding Author
+
+## Acknowledgement
+This work was supported by the IITP MSIT SW-centered University Program (2024-0-00047).
+
 
